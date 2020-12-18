@@ -1,2 +1,3 @@
-<h1 align="center">Hi, I'm <a href="https://www.wutsqo.me">Wutsqo</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~</h1>
+# Hi, I'm [Wutsqo](https://www.wutsqo.me/)!
+## Welcome to my GitHub profile
+
