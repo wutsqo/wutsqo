@@ -1,3 +1,2 @@
-# Hi, I'm [Wutsqo](https://www.wutsqo.me/)!
-## Welcome to my GitHub profile
-
+<h1 align="center">Hi 👋, I'm wutsqo</h1>
+<h3 align="center">A computer science student from Indonesia</h3>
