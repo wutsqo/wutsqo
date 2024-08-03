@@ -1,1 +1,1 @@
-[![Wutsqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wutsqo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+A Developer. Currently wrapping up some digital prensence in the Web. Visit my garden [here](https://www.wutzz.space/) 🌱
